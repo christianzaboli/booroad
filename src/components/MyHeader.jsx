@@ -6,7 +6,7 @@ export default function MyHeader() {
 	return (
 		<header className="d-flex justify-content-between align-items-center my-4">
 			<h1 className="display-1">
-				<a href="/">BooRoad</a>
+				<Link to="/">BooRoad</Link>
 			</h1>
 			{location.pathname === "/users" && (
 				<Link to="/" className="btn btn-primary">
