@@ -42,11 +42,26 @@ L'applicazione sarà disponibile su `http://localhost:5173` (porta predefinita d
 ## 📁 Struttura del Progetto
 
 - `src/`: Codice sorgente dell'applicazione
-  - `data/`: File di dati per partecipanti e viaggi
+  - `components/`: Componenti riutilizzabili
+    - `MyHeader.jsx`: Header dell'applicazione
+    - `TravelList.jsx`: Lista dei viaggi
+  - `data/`: File di dati
+    - `diagram.png`: Diagramma
+    - `partecipanti.jsx`: Dati dei partecipanti
+    - `viaggi.jsx`: Dati dei viaggi
+  - `layout/`: Layout dell'applicazione
+    - `DefaultLayout.jsx`: Layout predefinito
+  - `pages/`: Pagine dell'applicazione
+    - `HomePage.jsx`: Pagina principale
+    - `TravelPage.jsx`: Pagina dei viaggi
   - `App.jsx`: Componente principale
+  - `App.css`: Stili principali
+  - `index.css`: Stili globali
   - `main.jsx`: Punto di ingresso
 - `public/`: File statici
-- `vite.config.js`: Configurazione di Vite
+- `eslint.config.js`: Configurazione ESLint
+- `vite.config.js`: Configurazione Vite
+- `package.json`: Dipendenze e script
 
 ## 🎨 Formattazione del Codice
 
@@ -55,6 +70,8 @@ Il progetto utilizza Prettier per mantenere uno stile di codice consistente. Ese
 ## 🤝 Contributi
 
 Siamo felici di ricevere contributi! Sentiti libero di aprire issue o pull request per migliorare l'app.
+
+Prima di aprire una pull request, assicurati di eseguire `npm run pretty` per formattare il codice secondo le regole del progetto.
 
 ## 📄 Licenza
 
