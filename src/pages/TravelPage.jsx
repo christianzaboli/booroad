@@ -6,8 +6,8 @@ const TravelPage = () => {
 
 	return (
 		<>
-			<div>
-				<h1>Partecipanti al viaggio</h1>
+			<div className="container-wide d-flex flex-wrap gap-3 justify-content-center">
+				<h1 className="pt-3">Partecipanti al viaggio</h1>
 				<PersonList />
 			</div>
 		</>
