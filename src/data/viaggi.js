@@ -29,7 +29,7 @@ const viaggi = [
 	{
 		id: 4,
 		destinazione: "Barcellona",
-		img: "https://www.spagna.info/wp-content/uploads/sites/39/barcellona-sagrada-familia-arcobaleno.jpg",		
+		img: "https://www.spagna.info/wp-content/uploads/sites/39/barcellona-sagrada-familia-arcobaleno.jpg",
 		nazione: "Spagna",
 		dataInizio: "01/07/2025",
 		dataFine: "08/07/2025",
@@ -38,7 +38,7 @@ const viaggi = [
 	{
 		id: 5,
 		destinazione: "Reykjavík",
-		img: "https://www.islanda.it/uploads/media/reykjavik-la-capitale-islandese-65c272f9e956e388299051.jpg",		
+		img: "https://www.islanda.it/uploads/media/reykjavik-la-capitale-islandese-65c272f9e956e388299051.jpg",
 		nazione: "Islanda",
 		dataInizio: "14/02/2025",
 		dataFine: "21/02/2025",
@@ -47,7 +47,7 @@ const viaggi = [
 	{
 		id: 6,
 		destinazione: "Sydney",
-		img: "https://www.imaway.it/wp-content/webp-express/webp-images/uploads/2024/08/viaggio-sidney-2.jpg.webp",		
+		img: "https://www.imaway.it/wp-content/webp-express/webp-images/uploads/2024/08/viaggio-sidney-2.jpg.webp",
 		nazione: "Australia",
 		dataInizio: "05/09/2025",
 		dataFine: "19/09/2025",
@@ -56,7 +56,7 @@ const viaggi = [
 	{
 		id: 7,
 		destinazione: "Roma",
-		img: "https://tourismmedia.italia.it/is/image/mitur/20220127150143-colosseo-roma-lazio-shutterstock-756032350?wid=1600&hei=900&fit=constrain,1&fmt=webp",		
+		img: "https://tourismmedia.italia.it/is/image/mitur/20220127150143-colosseo-roma-lazio-shutterstock-756032350?wid=1600&hei=900&fit=constrain,1&fmt=webp",
 		nazione: "Italia",
 		dataInizio: "10/05/2025",
 		dataFine: "14/05/2025",
@@ -65,7 +65,7 @@ const viaggi = [
 	{
 		id: 8,
 		destinazione: "Londra",
-		img: "https://www.dltviaggi.it/immagine/17827/Londra%201.jpg",		
+		img: "https://www.dltviaggi.it/immagine/17827/Londra%201.jpg",
 		nazione: "Regno Unito",
 		dataInizio: "20/08/2025",
 		dataFine: "27/08/2025",
@@ -74,7 +74,7 @@ const viaggi = [
 	{
 		id: 9,
 		destinazione: "Toronto",
-		img: "https://cascatedelniagara.com/wp-content/uploads/2017/03/cosa-visitare-a-toronto-1.jpg",		
+		img: "https://cascatedelniagara.com/wp-content/uploads/2017/03/cosa-visitare-a-toronto-1.jpg",
 		nazione: "Canada",
 		dataInizio: "03/10/2025",
 		dataFine: "12/10/2025",
@@ -83,7 +83,7 @@ const viaggi = [
 	{
 		id: 10,
 		destinazione: "Bali",
-		img: "https://cdn.audleytravel.com/2478/1770/79/16027396-pura-ulun-danu-bratan-bali.jpg",		
+		img: "https://cdn.audleytravel.com/2478/1770/79/16027396-pura-ulun-danu-bratan-bali.jpg",
 		nazione: "Indonesia",
 		dataInizio: "15/11/2025",
 		dataFine: "29/11/2025",
