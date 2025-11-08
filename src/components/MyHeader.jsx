@@ -14,7 +14,7 @@ export default function MyHeader() {
 						style={{ height: "300px", width: "300px" }}
 					/>
 				</Link>
-				{location.pathname === "/users" && (
+				{location.pathname.startsWith("/users") && (
 					<Link to="/" className="btn btn-primary">
 						Torna alla Homepage
 					</Link>
