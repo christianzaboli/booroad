@@ -7,6 +7,18 @@ const viaggi = [
 		dataInizio: "28/12/2025",
 		dataFine: "03/01/2026",
 		luogoDiCulto: "Santuario di Nostra Signora di Medjugorje",
+		partecipanti: [
+    	  	{ id: 1, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+      		{ id: 2, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 3, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+      		{ id: 4, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 5, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 6, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 7, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 8, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 9, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 10, nome: "", cognome: "", email: "", telefono: "", CF: "" },	
+    	],
 	},
 
 	{
@@ -17,6 +29,18 @@ const viaggi = [
 		dataInizio: "10/03/2025",
 		dataFine: "17/03/2025",
 		luogoDiCulto: "Monte Fato",
+		partecipanti: [
+			{ id: 1, nome: "Frodo", cognome: "Baggins", email: "frodo@shire.me", telefono: "+39 331 762 4581", CF: "BGGFRD000MDR001" },
+			{ id: 2, nome: "Samwise", cognome: "Gamgee", email: "sam@shire.me", telefono: "+39 333 187 9452", CF: "GMGSMW000MDR002" },
+			{ id: 3, nome: "Gandalf", cognome: "il Grigio", email: "gandalf@istari.org", telefono: "+39 329 514 2760", CF: "GNDLF000MDR003" },
+			{ id: 4, nome: "Aragorn", cognome: "Elessar", email: "aragorn@gondor.gov", telefono: "+39 348 602 1934", CF: "RGRNAR000MDR004" },
+			{ id: 5, nome: "Legolas", cognome: "di Bosco Atro", email: "legolas@elves.wo", telefono: "+39 320 954 8801", CF: "LGLSDL000MDR005" },
+			{ id: 6, nome: "Gimli", cognome: "figlio di Glóin", email: "gimli@dwarves.mnt", telefono: "+39 345 218 7395", CF: "GMLGLN000MDR006" },
+			{ id: 7, nome: "Boromir", cognome: "di Gondor", email: "boromir@gondor.gov", telefono: "+39 347 896 5032", CF: "BRMRDG000MDR007" },
+			{ id: 8, nome: "Merry", cognome: "Brandybuck", email: "merry@shire.me", telefono: "+39 324 109 5873", CF: "BRNMRY000MDR008" },
+			{ id: 9, nome: "Pippin", cognome: "Took", email: "pippin@shire.me", telefono: "+39 338 440 1927", CF: "TKPPPN000MDR009" },
+			{ id: 10, nome: "Gollum", cognome: "Smeagol", email: "gollum@underhill.net", telefono: "+39 350 678 9140", CF: "GLLSMG000MDR010" },
+		],
 	},
 
 	{
@@ -27,6 +51,18 @@ const viaggi = [
 		dataInizio: "22/04/2025",
 		dataFine: "03/05/2025",
 		luogoDiCulto: "Santuario di Oden Kozuki",
+		partecipanti: [
+			{ id: 1, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+      		{ id: 2, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 3, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+      		{ id: 4, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 5, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 6, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 7, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 8, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 9, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 10, nome: "", cognome: "", email: "", telefono: "", CF: "" },	
+		],
 	},
 
 	{
@@ -37,6 +73,18 @@ const viaggi = [
 		dataInizio: "05/06/2025",
 		dataFine: "15/06/2025",
 		luogoDiCulto: "Sala Grande del Castello di Hogwarts",
+		partecipanti: [
+			{ id: 1, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+      		{ id: 2, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 3, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+      		{ id: 4, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 5, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 6, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 7, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 8, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 9, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 10, nome: "", cognome: "", email: "", telefono: "", CF: "" },	
+		],
 	},
 
 	{
@@ -47,6 +95,18 @@ const viaggi = [
 		dataInizio: "01/07/2025",
 		dataFine: "08/07/2025",
 		luogoDiCulto: "Esiste solo la Curva Sud",
+		partecipanti: [
+			{ id: 1, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+      		{ id: 2, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 3, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+      		{ id: 4, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 5, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 6, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 7, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 8, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 9, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 10, nome: "", cognome: "", email: "", telefono: "", CF: "" },	
+		],
 	},
 
 	{
@@ -57,6 +117,18 @@ const viaggi = [
 		dataInizio: "20/12/2025",
 		dataFine: "27/12/2025",
 		luogoDiCulto: "Stadio di Razor",
+		partecipanti: [
+			{ id: 1, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+      		{ id: 2, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 3, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+      		{ id: 4, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 5, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 6, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 7, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 8, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 9, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 10, nome: "", cognome: "", email: "", telefono: "", CF: "" },	
+		],
 	},
 
 	{
@@ -67,6 +139,18 @@ const viaggi = [
 		dataInizio: "05/09/2025",
 		dataFine: "19/09/2025",
 		luogoDiCulto: "Autolavaggio di Walter White",
+		partecipanti: [
+			{ id: 1, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+      		{ id: 2, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 3, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+      		{ id: 4, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 5, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 6, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 7, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 8, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 9, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 10, nome: "", cognome: "", email: "", telefono: "", CF: "" },	
+		],
 	},
 
 	{
@@ -77,6 +161,18 @@ const viaggi = [
 		dataInizio: "10/05/2025",
 		dataFine: "14/05/2025",
 		luogoDiCulto: "Sala del Trono di Peach",
+		partecipanti: [
+			{ id: 1, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+      		{ id: 2, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 3, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+      		{ id: 4, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 5, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 6, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 7, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 8, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 9, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 10, nome: "", cognome: "", email: "", telefono: "", CF: "" },	
+		],
 	},
 
 	{
@@ -87,6 +183,18 @@ const viaggi = [
 		dataInizio: "20/08/2025",
 		dataFine: "27/08/2025",
 		luogoDiCulto: "Tempio di Kynareth a Whiterun",
+		partecipanti: [
+			{ id: 1, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+      		{ id: 2, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 3, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+      		{ id: 4, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 5, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 6, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 7, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 8, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 9, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 10, nome: "", cognome: "", email: "", telefono: "", CF: "" },	
+		],
 	},
 
 	{
@@ -97,6 +205,18 @@ const viaggi = [
 		dataInizio: "03/10/2025",
 		dataFine: "12/10/2025",
 		luogoDiCulto: "Wall Maria",
+		partecipanti: [
+			{ id: 1, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+      		{ id: 2, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 3, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+      		{ id: 4, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 5, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 6, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 7, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 8, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 9, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 10, nome: "", cognome: "", email: "", telefono: "", CF: "" },	
+		],
 	},
 
 	{
@@ -107,6 +227,18 @@ const viaggi = [
 		dataInizio: "15/11/2025",
 		dataFine: "29/11/2025",
 		luogoDiCulto: "Tribunal Temple in Mournhold",
+		partecipanti: [
+			{ id: 1, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+      		{ id: 2, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 3, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+      		{ id: 4, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 5, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 6, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 7, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 8, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 9, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 10, nome: "", cognome: "", email: "", telefono: "", CF: "" },	
+		],
 	},
 
 	{
@@ -117,6 +249,18 @@ const viaggi = [
 		dataInizio: "14/02/2025",
 		dataFine: "21/02/2025",
 		luogoDiCulto: "Laboratorio del Sottosopra",
+		partecipanti: [
+			{ id: 1, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+      		{ id: 2, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 3, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+      		{ id: 4, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 5, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 6, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 7, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 8, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 9, nome: "", cognome: "", email: "", telefono: "", CF: "" },
+			{ id: 10, nome: "", cognome: "", email: "", telefono: "", CF: "" },	
+		],
 	},
 ];
 
